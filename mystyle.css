@@ -34,6 +34,7 @@ body {
 /* Left and right column */
 .column.side {
   width: 25%;
+  font-size: small;
 }
 
 /* Middle column */
@@ -89,3 +90,17 @@ body {
   background-color: #4CAF50;
   color: white;
 }
+​​.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {background-color: #b9286c;} /* Green */
+.button2 {background-color: hsl(41, 53%, 34%);} /* Blue */
