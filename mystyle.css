@@ -12,8 +12,11 @@
 	font-weight: strong;
 }
 
-body {
+body2 {
   font-family: Arial, Helvetica, sans-serif;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
 }
 
 /* Style the header */
@@ -104,3 +107,18 @@ body {
 
 .button1 {background-color: #b9286c;} /* Green */
 .button2 {background-color: hsl(41, 53%, 34%);} /* Blue */
+
+input {
+  background-color: white;
+  background-image: url('searchicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  padding-left: 40px;
+}
+containe {
+  background-color: white;
+  background-image: url('searchicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  padding-left: 40px;
+}
